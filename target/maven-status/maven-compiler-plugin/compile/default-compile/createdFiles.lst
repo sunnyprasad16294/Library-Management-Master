@@ -1,0 +1,10 @@
+com\libr\mng\book\configuration\GlobalErrorHandler.class
+com\libr\mng\book\service\BookService.class
+com\libr\mng\book\util\BookException.class
+com\libr\mng\book\BookApplication.class
+com\libr\mng\book\data\Category.class
+com\libr\mng\book\data\Book.class
+com\libr\mng\book\repository\CategoryRepository.class
+com\libr\mng\book\service\CategoryService.class
+com\libr\mng\book\controller\BookController.class
+com\libr\mng\book\repository\BookRepository.class

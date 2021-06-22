@@ -12,6 +12,10 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * @author SUNNY
+ *
+ */
 @Getter
 @Setter
 @AllArgsConstructor
