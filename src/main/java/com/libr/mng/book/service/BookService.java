@@ -10,6 +10,10 @@ import com.libr.mng.book.data.Book;
 import com.libr.mng.book.repository.BookRepository;
 import com.libr.mng.book.util.BookException;
 
+/**
+ * @author SUNNY
+ *
+ */
 @Service
 public class BookService {
 
